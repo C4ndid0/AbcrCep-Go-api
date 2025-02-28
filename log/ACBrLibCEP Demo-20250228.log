@@ -111,3 +111,71 @@ UF=MG
 Quantidade=1
 )
 28/02/25 10:28:44:146 - Destravar
+28/02/25 10:38:51:003 - TLibCEPConfig.AplicarConfiguracoes: /mnt/c/Users/plata/OneDrive/Área de Trabalho/Nova pasta (2)/acbr-Gocep-api-main/ACBrLib.ini
+28/02/25 10:38:51:012 - Travar
+28/02/25 10:38:51:089 - TLibCEPConfig.AplicarConfiguracoes - Feito
+28/02/25 10:38:51:108 - Destravar
+28/02/25 10:38:51:125 - TLibCEPConfig.Ler - Feito
+28/02/25 10:38:51:143 - Destravar
+28/02/25 10:38:51:161 - LIB_Inicializar( /mnt/c/Users/plata/OneDrive/Área de Trabalho/Nova pasta (2)/acbr-Gocep-api-main/ACBrLib.ini,  )
+28/02/25 10:38:51:178 -    ACBrLibCEP Demo - 1.0.2.208
+28/02/25 10:38:59:335 - CEP_BuscarPorCEP( 37200645 )
+28/02/25 10:38:59:343 - Travar
+28/02/25 10:38:59:960 -    MoverStringParaPChar. StrLen:211, BufLen:4096
+28/02/25 10:38:59:970 -    SetRetorno(0, [Endereco1]
+Bairro=Conjunto Habitacional Júlio Sidney Pinto
+CEP=37200-645
+Complemento=
+IBGE_Municipio=3138203
+IBGE_UF=31
+Logradouro=Rua Jairo de Lima
+Municipio=Lavras
+Tipo_Logradouro=
+UF=MG
+
+[CEP]
+Quantidade=1
+)
+28/02/25 10:39:00:000 - Destravar
+28/02/25 10:45:37:407 - TLibCEPConfig.AplicarConfiguracoes: /mnt/c/Users/plata/OneDrive/Área de Trabalho/Nova pasta (2)/acbr-Gocep-api-main/ACBrLib.ini
+28/02/25 10:45:37:417 - Travar
+28/02/25 10:45:37:460 - TLibCEPConfig.AplicarConfiguracoes - Feito
+28/02/25 10:45:37:482 - Destravar
+28/02/25 10:45:37:505 - TLibCEPConfig.Ler - Feito
+28/02/25 10:45:37:529 - Destravar
+28/02/25 10:45:37:549 - LIB_Inicializar( /mnt/c/Users/plata/OneDrive/Área de Trabalho/Nova pasta (2)/acbr-Gocep-api-main/ACBrLib.ini,  )
+28/02/25 10:45:37:569 -    ACBrLibCEP Demo - 1.0.2.208
+28/02/25 10:49:12:509 - TLibCEPConfig.AplicarConfiguracoes: C:\Users\plata\OneDrive\Área de Trabalho\Nova pasta (2)\acbr-Gocep-api-main\ACBrLib.ini
+28/02/25 10:49:12:510 - Travar
+28/02/25 10:49:12:528 - TLibCEPConfig.AplicarConfiguracoes - Feito
+28/02/25 10:49:12:541 - Destravar
+28/02/25 10:49:12:554 - TLibCEPConfig.Ler - Feito
+28/02/25 10:49:12:567 - Destravar
+28/02/25 10:49:12:581 - LIB_Inicializar( C:\Users\plata\OneDrive\Área de Trabalho\Nova pasta (2)\acbr-Gocep-api-main\ACBrLib.ini, *** )
+28/02/25 10:49:12:595 -    ACBrLibCEP Demo - 1.0.2.208
+28/02/25 11:15:11:918 - TLibCEPConfig.AplicarConfiguracoes: /mnt/c/Users/plata/OneDrive/Área de Trabalho/Nova pasta (2)/acbr-Gocep-api-main/ACBrLib.ini
+28/02/25 11:15:11:927 - Travar
+28/02/25 11:15:12:010 - TLibCEPConfig.AplicarConfiguracoes - Feito
+28/02/25 11:15:12:026 - Destravar
+28/02/25 11:15:12:044 - TLibCEPConfig.Ler - Feito
+28/02/25 11:15:12:065 - Destravar
+28/02/25 11:15:12:096 - LIB_Inicializar( /mnt/c/Users/plata/OneDrive/Área de Trabalho/Nova pasta (2)/acbr-Gocep-api-main/ACBrLib.ini,  )
+28/02/25 11:15:12:127 -    ACBrLibCEP Demo - 1.0.2.208
+28/02/25 11:15:54:998 - CEP_BuscarPorCEP( 37200645 )
+28/02/25 11:15:55:006 - Travar
+28/02/25 11:15:55:710 -    MoverStringParaPChar. StrLen:211, BufLen:4096
+28/02/25 11:15:55:719 -    SetRetorno(0, [Endereco1]
+Bairro=Conjunto Habitacional Júlio Sidney Pinto
+CEP=37200-645
+Complemento=
+IBGE_Municipio=3138203
+IBGE_UF=31
+Logradouro=Rua Jairo de Lima
+Municipio=Lavras
+Tipo_Logradouro=
+UF=MG
+
+[CEP]
+Quantidade=1
+)
+28/02/25 11:15:55:740 - Destravar
