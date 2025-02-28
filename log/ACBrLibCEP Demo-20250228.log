@@ -1,0 +1,8 @@
+28/02/25 08:11:49:185 - TLibCEPConfig.AplicarConfiguracoes: C:\Users\plata\acbr-Gocep-api\acbr-Gocep-api-main\ACBrLib.ini
+28/02/25 08:11:49:185 - Travar
+28/02/25 08:11:49:187 - TLibCEPConfig.AplicarConfiguracoes - Feito
+28/02/25 08:11:49:200 - Destravar
+28/02/25 08:11:49:200 - TLibCEPConfig.Ler - Feito
+28/02/25 08:11:49:215 - Destravar
+28/02/25 08:11:49:215 - LIB_Inicializar( C:\Users\plata\acbr-Gocep-api\acbr-Gocep-api-main\ACBrLib.ini, **** )
+28/02/25 08:11:49:231 -    ACBrLibCEP Demo - 1.0.2.208
