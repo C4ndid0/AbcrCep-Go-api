@@ -6,3 +6,108 @@
 28/02/25 08:11:49:215 - Destravar
 28/02/25 08:11:49:215 - LIB_Inicializar( C:\Users\plata\acbr-Gocep-api\acbr-Gocep-api-main\ACBrLib.ini, **** )
 28/02/25 08:11:49:231 -    ACBrLibCEP Demo - 1.0.2.208
+28/02/25 10:22:10:121 - TLibCEPConfig.AplicarConfiguracoes: /mnt/c/Users/plata/OneDrive/Área de Trabalho/Nova pasta (2)/acbr-Gocep-api-main/ACBrLib.ini
+28/02/25 10:22:10:128 - Travar
+28/02/25 10:22:10:157 - TLibCEPConfig.AplicarConfiguracoes - Feito
+28/02/25 10:22:10:170 - Destravar
+28/02/25 10:22:10:184 - TLibCEPConfig.Ler - Feito
+28/02/25 10:22:10:198 - Destravar
+28/02/25 10:22:10:215 - LIB_Inicializar( /mnt/c/Users/plata/OneDrive/Área de Trabalho/Nova pasta (2)/acbr-Gocep-api-main/ACBrLib.ini,  )
+28/02/25 10:22:10:228 -    ACBrLibCEP Demo - 1.0.2.208
+28/02/25 10:22:38:446 - CEP_BuscarPorCEP( 37200645 )
+28/02/25 10:22:38:456 - Travar
+28/02/25 10:22:38:472 - Destravar
+28/02/25 10:22:38:489 -    SetRetorno(-10, WebService TACBrCEPWSClass não implementa o método: BuscarPorCEP)
+28/02/25 10:22:38:505 - LIB_UltimoRetorno
+28/02/25 10:22:38:523 -    MoverStringParaPChar. StrLen:66, BufLen:4096
+28/02/25 10:22:38:538 -    Codigo:-10, Mensagem:WebService TACBrCEPWSClass n[195][163]o implementa o m[195][169]todo: BuscarPorCEP
+28/02/25 10:27:04:408 - CEP_BuscarPorCEP( 01001000 )
+28/02/25 10:27:04:415 - Travar
+28/02/25 10:27:04:436 - Destravar
+28/02/25 10:27:04:451 -    SetRetorno(-10, WebService TACBrCEPWSClass não implementa o método: BuscarPorCEP)
+28/02/25 10:27:04:467 - LIB_UltimoRetorno
+28/02/25 10:27:04:479 -    MoverStringParaPChar. StrLen:66, BufLen:4096
+28/02/25 10:27:04:494 -    Codigo:-10, Mensagem:WebService TACBrCEPWSClass n[195][163]o implementa o m[195][169]todo: BuscarPorCEP
+28/02/25 10:27:52:340 - TLibCEPConfig.AplicarConfiguracoes: /mnt/c/Users/plata/OneDrive/Área de Trabalho/Nova pasta (2)/acbr-Gocep-api-main/ACBrLib.ini
+28/02/25 10:27:52:347 - Travar
+28/02/25 10:27:52:364 - TLibCEPConfig.AplicarConfiguracoes - Feito
+28/02/25 10:27:52:377 - Destravar
+28/02/25 10:27:52:392 - TLibCEPConfig.Ler - Feito
+28/02/25 10:27:52:407 - Destravar
+28/02/25 10:27:52:421 - LIB_Inicializar( /mnt/c/Users/plata/OneDrive/Área de Trabalho/Nova pasta (2)/acbr-Gocep-api-main/ACBrLib.ini,  )
+28/02/25 10:27:52:436 -    ACBrLibCEP Demo - 1.0.2.208
+28/02/25 10:27:59:991 - CEP_BuscarPorCEP( 01001000 )
+28/02/25 10:27:59:998 - Travar
+28/02/25 10:28:00:663 -    MoverStringParaPChar. StrLen:184, BufLen:4096
+28/02/25 10:28:00:671 -    SetRetorno(0, [Endereco1]
+Bairro=Sé
+CEP=01001-000
+Complemento=lado ímpar
+IBGE_Municipio=3550308
+IBGE_UF=35
+Logradouro=Praça da Sé
+Municipio=São Paulo
+Tipo_Logradouro=
+UF=SP
+
+[CEP]
+Quantidade=1
+)
+28/02/25 10:28:00:685 - Destravar
+28/02/25 10:28:15:210 - CEP_BuscarPorCEP( oi )
+28/02/25 10:28:15:217 - Travar
+28/02/25 10:28:15:238 - Destravar
+28/02/25 10:28:15:256 -    SetRetorno(-10, CEP é obrigatório e deve ser informado!)
+28/02/25 10:28:15:272 - LIB_UltimoRetorno
+28/02/25 10:28:15:287 -    MoverStringParaPChar. StrLen:41, BufLen:4096
+28/02/25 10:28:15:301 -    Codigo:-10, Mensagem:CEP [195][169] obrigat[195][179]rio e deve ser informado!
+28/02/25 10:28:27:823 - CEP_BuscarPorCEP( 888888 )
+28/02/25 10:28:27:832 - Travar
+28/02/25 10:28:28:431 - Destravar
+28/02/25 10:28:28:440 -    SetRetorno(-10, Erro HTTP: 400 Bad Request
+Socket Error: 0 
+URL: https://viacep.com.br/ws/888888/json
+
+Resposta HTTP:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/css">
+      h1 {
+          color: #555;
+          text-align: center;
+          font-size: 4em;
+      }
+      h2, h3 {
+          color: #666;
+          text-align: center;
+          font-size: 3em;
+      }
+      h3 {
+          font-size: 1.5em;
+      }
+)
+28/02/25 10:28:28:457 - LIB_UltimoRetorno
+28/02/25 10:28:28:513 -    MoverStringParaPChar. StrLen:474, BufLen:4096
+28/02/25 10:28:28:530 -    Codigo:-10, Mensagem:Erro HTTP: 400 Bad Request[LF]Socket Error: 0 [LF]URL: https://viacep.com.br/ws/888888/json[LF][LF]Resposta HTTP:[LF]<!DOCTYPE HTML>[LF]<html lang="pt-br">[LF][LF]<head>[LF]  <title>ViaCEP 400</title>[LF]  <meta charset="utf-8" />[LF]  <style type="text/css">[LF]      h1 {[LF]          color: #555;[LF]          text-align: center;[LF]          font-size: 4em;[LF]      }[LF]      h2, h3 {[LF]          color: #666;[LF]          text-align: center;[LF]          font-size: 3em;[LF]      }[LF]      h3 {[LF]          font-size: 1.5em;[LF]      }[LF]
+28/02/25 10:28:43:509 - CEP_BuscarPorCEP( 37200645 )
+28/02/25 10:28:43:521 - Travar
+28/02/25 10:28:44:118 -    MoverStringParaPChar. StrLen:211, BufLen:4096
+28/02/25 10:28:44:127 -    SetRetorno(0, [Endereco1]
+Bairro=Conjunto Habitacional Júlio Sidney Pinto
+CEP=37200-645
+Complemento=
+IBGE_Municipio=3138203
+IBGE_UF=31
+Logradouro=Rua Jairo de Lima
+Municipio=Lavras
+Tipo_Logradouro=
+UF=MG
+
+[CEP]
+Quantidade=1
+)
+28/02/25 10:28:44:146 - Destravar
